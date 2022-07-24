@@ -305,11 +305,11 @@
     font-weight:400;
     line-height:40px;
 }
-#ul:hover
+.ul:hover
 {
     text-decoration-line: underline;
 }
-#ul1
+.ul1
 {
     text-decoration:none;
     color:hsl(208, 11%, 55%);
